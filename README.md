@@ -1,23 +1,23 @@
-# Dynamic Pages with JavaScript
+# More HTML
 
-## Setup and Documentation
+## Assignment: Create a Multi-Page Website for Outdoor Adventure Destinations
 
-Review your page's wireframe. Look at the content, and select a few places where you could add in something dynamic.
+For this assignment, you will create a multi-page website that highlights various outdoor adventure destinations around the world. Your website should consist of interconnected pages, each showcasing a different adventure location.
 
-## Requirements
+### Instructions
+#### Add the following changes to the landing page (index.html):  
+- Display a header that says 'Outdoor Adventures' at the top of the page with a header tag (h1, h2, or h3)  
+- Display a image related to 'Outdoor Adventures' under the header  
+- Display links to both yellowstone.html and maui.html under the image
 
-Add at least 3 dynamic components to your web page. These can be based on user input, or other dynamic input data.
+#### Add the following changes to the maui adventure page (mauiAdventure.html):  
+- Display a header that says 'Scuba Diving in Maui' 
+- Display [this video of scuba diving](https://www.youtube.com/watch?v=gHcnzz5Nyxg)  on the page with a iframe tag (iframe)
+- Display a short summary that details what would make this adventure exciting and fun with a paragraph tag (p)
 
-At least one dynamic component should be based on user input.
+#### Add the following changes to the yellowstone adventure page (yellowstoneAdventure.html):  
+- Display a header that says 'Hiking in Yellowstone' 
+- Display [this video of hiking](https://www.youtube.com/watch?v=pe-7PyGgTYg)  on the page with a iframe tag (iframe)
+- Display a short summary that details what would make this adventure exciting and fun with a paragraph tag (p)
 
-At least one dynamic component should use a conditional statement to determine the output.
-
-### Stretch Goals
-
-Try out the `confirm()` function, in addition to `prompt()`. When's the right time to use this?
-
-If the user gives you a color, can you set a part of your page to be that color?
-
-### Submission Instructions
-
-Deploy your dynamic web page, and share the public URL here. Check out what your classmates made as well!
+Take a look at the Example folder for an idea of how the end result should look.
