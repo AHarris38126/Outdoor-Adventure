@@ -4,6 +4,16 @@
 
 For this assignment, you will create a multi-page website that highlights various outdoor adventure destinations around the world. Your website should consist of interconnected pages, each showcasing a different adventure location.
 
+
+<div style="display: flex; flex-direction: column; justify-content: center;  align-items: center;
+">
+  <img src="./Example/index.png" width="300" height="170" />
+  <div style="display: flex; ">
+    <img src="./Example/mauiAdventure.png" width="300" style="margin-right: 1%; margin-top: 1%"/> 
+    <img src="./Example/yellowstoneAdventure.png" width="300" style="margin-left: 1%; margin-top: 1%" />
+  </div>
+</div>
+
 ### Instructions
 #### Add the following changes to the landing page (index.html):  
 - Display a header that says 'Outdoor Adventures' at the top of the page with a header tag (h1, h2, or h3)  
